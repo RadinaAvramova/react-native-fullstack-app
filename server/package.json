@@ -8,8 +8,8 @@
     "start": "node server.js",
     "server": "nodemon server.js"
   },
-  "author": "techinfoyt",
-  "license": "ISC",
+  "author": "",
+  "license": "",
   "dependencies": {
     "bcrypt": "^5.1.1",
     "colors": "^1.4.0",
